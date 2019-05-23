@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+srcDoc/
+传感器模式/
+故障部件模式/
+QA*
+__main__.py
